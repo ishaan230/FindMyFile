@@ -3,13 +3,21 @@ A bash script that helps you find and edit files in any mentioned directory for 
 
 ## Usage
 Clone the repo
-```git clone https://github.com/ishaan230/FindMyFile```
+```
+git clone https://github.com/ishaan230/FindMyFile
+```
 
 Change the directory
-```cd FindMyFile```
+```
+cd FindMyFile
+```
 
 Make the file executable
-```chmod +x FindMyFile.sh```
+```
+chmod +x FindMyFile.sh
+```
 
 Run the file
-```./FindMyFile.sh```
+```
+./FindMyFile.sh
+```
