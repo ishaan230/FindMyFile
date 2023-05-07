@@ -21,3 +21,12 @@ Run the file
 ```
 ./FindMyFile.sh
 ```
+
+Setup Quick Search using Alias
+```
+chmod +x set_alias.sh
+```
+Run the file
+```
+./set_alias.sh
+```
